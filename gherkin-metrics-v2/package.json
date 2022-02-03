@@ -1,0 +1,17 @@
+{
+  "name": "gherkin-metrics-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compileTags": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gherkin": "^4.0.0",
+    "glob": "^7.1.6",
+    "simple-git": "^2.5.0"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "repositories": [
+    {
+      "name": "repo name",
+      "clone_url": "repo_clone_url.git",
+      "branch": "develop",
+      "bitbucket_project": "bitbucket_project",
+      "sub_level": false,
+      "results_link": "URL to test results (Jenkins or other CI)"
+    }
+  ],
+  "tags": [
+    {
+      "name": "@manual",
+      "description": "Gherkins executed manually rather than with an automated test",
+      "count": 0
+    },
+    {
+      "name": "@not-implemented",
+      "description": "Tests that are not automated (debt)",
+      "count": 0
+    },
+    {
+      "name": "@inactive",
+      "description": "Deactivated tests that are automated",
+      "count": 0
+    },
+    {
+      "name": "@unit",
+      "description": "Gherkins that are related to a unit test",
+      "count": 0
+    },
+    {
+      "name": "@automated",
+      "note": "***LEAVE LAST***",
+      "description": "Fully automated tests",
+      "count": 0
+    }
+  ]
+}
