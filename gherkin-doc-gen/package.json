@@ -1,0 +1,19 @@
+{
+  "name": "gherkin-doc-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gherkin-parse": "^1.0.6"
+  },
+  "devDependencies": {
+    "find": "^0.3.0",
+    "simple-git": "^2.38.0"
+  }
+}

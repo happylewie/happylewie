@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "name": "repo name",
+      "clone_url": "bitbucket.org/repo_owner/repo_location.git",
+      "branch": "develop",
+      "bitbucket_project": "owner",
+      "sub_level": false
+    }
+  ]
+}
